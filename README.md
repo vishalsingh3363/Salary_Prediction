@@ -8,4 +8,4 @@ Technology and tools wise this project covers,
 3. Matplotlib for data visualization
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
-6. Stream for UI
+6. Streamlit for UI
